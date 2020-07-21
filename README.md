@@ -1,5 +1,5 @@
 # ShadowRocket
-总所周知因为某些原因大陆区用户apple id无法在app store下载ShadowRocket，但可以使用离线ipa文件安装此应用程序，安装方法如下：
+众所周知因为某些原因大陆区用户apple id无法在app store下载ShadowRocket，但可以使用离线ipa文件安装此应用程序，安装方法如下：
 
 1. **下载ShadowRocket的ipa文件 [下载链接](https://github.com/CQUWH/ShadowRocket/raw/master/Shadowrocket-2.1.10-PP.ipa)**
 
