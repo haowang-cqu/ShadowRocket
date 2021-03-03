@@ -1,6 +1,6 @@
 **提示：由于PP助手不再支持iOS，此仓库提供的安装方法已不再适用，或许你可以找一个美区账号登录后直接下载安装ShadowRocket。**
 
-~~# ShadowRocket~~
+# ShadowRocket
 ~~众所周知因为某些原因大陆区用户apple id无法在app store下载ShadowRocket，但可以使用离线ipa文件安装此应用程序，安装方法如下：~~
 
 ~~1. **下载ShadowRocket的ipa文件 [下载链接](https://github.com/CQUWH/ShadowRocket/raw/master/Shadowrocket-2.1.10-PP.ipa)**~~
